@@ -44,9 +44,9 @@
   </a>
 </div>
 
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/oguilhermedelfino/oguilhermedelfino/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/oguilhermedelfino/oguilhermedelfino/output/snake-dark.svg" />
+
